@@ -4,3 +4,5 @@ React 학습 공유 저장소
 Dev List
 1. Cat
 2. Octopus
+
+원격 저장소에서 로컬 만들기
